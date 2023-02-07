@@ -9,8 +9,21 @@ How do I Ingest Small Files into Hudi Datallake with Glue Incremental data proce
 
 * Make sure yo add your Access and Secret key in .env files 
 ```
-pythonrun.py
+python run.py
 ```
 
 # Step 2:
 #### Run your Glue Job 
+
+
+# Refernces 
+
+Introducing the Cloud Shuffle Storage Plugin for Apache Spark
+https://aws.amazon.com/blogs/big-data/introducing-the-cloud-shuffle-storage-plugin-for-apache-spark/
+
+
+
+
+
+
+
